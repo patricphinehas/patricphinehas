@@ -4,7 +4,7 @@
 - 💻 Software Engineering Associate at <a href="https://www.bosch-softwaretechnologies.com/en/"> Bosch</a>
 - 📖 I’m currently learning Web-Dev & BlockChain
 - 💬 Ask me about Computer Hardware, Analytics, Deployment
-- 📫 reah me at <a href="mailto:patricphinehas@outlook.com">Patric</a>
+- 📫 reach me at <a href="mailto:patricphinehas@outlook.com">Patric</a>
 - 😄 Pronouns: Ambitious, Eager, Quirky, Shrink, Humour
 - ⚡ Fun fact: Your wish is influenced 👁️‍🗨️
 
