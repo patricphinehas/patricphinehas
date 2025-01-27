@@ -1,7 +1,7 @@
 <h1 align="center">I am Patric 👋</h1>
 <p align="center">newbie to Opensource ⚙️</p>
 
-- 💻 Software Engineering Associate at <a href="https://www.bosch-softwaretechnologies.com/en/"> Bosch</a>
+- 💻Lead UX UI Engineer at <a href="https://www.bosch-softwaretechnologies.com/en/"> Bosch</a>
 - 📖 I’m currently learning Web-Dev & BlockChain
 - 💬 Ask me about Computer Hardware, Analytics, Deployment
 - 📫 reach me at <a href="mailto:patricphinehas@outlook.com">Patric</a>
