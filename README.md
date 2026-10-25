@@ -99,6 +99,6 @@ EMC Academic Associate, Data Science and Big Data Analytics · OpenAI API and Pr
 
 **Open to hybrid roles in Coimbatore and Bengaluru.**
 
-[patricthedev.in](https://patricthedev.in) · [LinkedIn](https://linkedin.com/in/patricphinehas) · [patricphinehas@gmail.com](mailto:patricphinehas@gmail.com)
+[patricthedev.in](https://patricthedev.in) · [LinkedIn](https://linkedin.com/in/patricphinehas) 
 
 </div>
